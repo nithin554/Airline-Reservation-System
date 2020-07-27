@@ -1,6 +1,8 @@
 # Airline-Reservation-System
 
   Airline Reservation System developed using Full-Stack Development tools like HTML , CSS , JavaScript , NodeJS , ExpressAPI and FirebaseAPI.
+  NodeJS Installer : https://nodejs.org/en/
+  Firebase : https://firebase.google.com/
 
 • **Manage the header functions**
 
