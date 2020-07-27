@@ -2,7 +2,7 @@
 
   Airline Reservation System developed using Full-Stack Development tools like HTML , CSS , JavaScript , NodeJS , ExpressAPI and FirebaseAPI.
 
-• Manage the header functions
+• **Manage the header functions**
 
 o Login Management
 
@@ -10,7 +10,7 @@ o Booking Management
 
 o Profile Management
 
-• Upon clicking on login button or any button that requires the customer to be logged-in
+• **Upon clicking on login button or any button that requires the customer to be logged-in**
 
 o open the login/register page
 
@@ -21,7 +21,7 @@ o upon successful login, redirect to the page intended
 o upon failure, redirect to exception processing (retry, forgot password or register)
 
 
-• Upon clicking the Booking Management Button
+• **Upon clicking the Booking Management Button**
 
 o display the list of bookings where travel is not yet completed - (time and date constraint is not updated yet)
 
@@ -31,7 +31,7 @@ o if the booking is not listed, allow the user to enter the PNR and last name fo
 
 and linking it to the login id
 
-• Upon clicking the check-in button
+• **Upon clicking the check-in button**
 
 o Show the layout of the seating arrangement in the plane
 
@@ -42,7 +42,7 @@ o Show the layout of the seating arrangement in the plane
 ▪ upon confirming the seats, generate a PNR Number for future reference
 
 
-• Upon clicking the Profile Management Button
+• **Upon clicking the Profile Management Button**
 
 o Show the personal information collect and allow options for editing (name, address, DoB, current
 
@@ -55,7 +55,7 @@ After the check-in is complete, issue a PNR Number which can be used to generate
 the agent's application and board the passenger
 
 
-• Upon arrival at the gate for boarding
+• **Upon arrival at the gate for boarding**
 
 o Select the flight for which boarding is being done in the desktop application
 
