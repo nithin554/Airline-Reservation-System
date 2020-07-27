@@ -3,8 +3,11 @@
   Airline Reservation System developed using Full-Stack Development tools like HTML , CSS , JavaScript , NodeJS , ExpressAPI and FirebaseAPI.
 
 • Manage the header functions
+
 o Login Management
+
 o Booking Management
+
 o Profile Management
 
 • Upon clicking on login button or any button that requires the customer to be logged-in
